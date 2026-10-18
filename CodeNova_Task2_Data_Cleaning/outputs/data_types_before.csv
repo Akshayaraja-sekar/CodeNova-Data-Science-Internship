@@ -1,0 +1,10 @@
+,Data_Type
+Order Date,object
+Region,object
+State,object
+Category,object
+Sub-Category,object
+Segment,object
+Sales,float64
+Profit,float64
+Quantity,int64
